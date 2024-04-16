@@ -2,7 +2,6 @@ import json
 import random
 import time
 
-
 def json_fille():
     # Definice dat
     x = random.randint(1,10)
@@ -23,4 +22,4 @@ def json_fille():
 
 while True:
     json_fille()
-    time.sleep(2)
+    time.sleep(10)
