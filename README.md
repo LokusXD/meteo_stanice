@@ -10,4 +10,4 @@ Nginx server:
     - taktéž umožňuje insertovat html soubor do jiného html souboru <--# include:"jméno_souboru.html"--> umožňuje tak mít jednotnou hlavičku, zápatí, navigační menu atd
 
 Python server:
-    -
+    -hsjsbj
